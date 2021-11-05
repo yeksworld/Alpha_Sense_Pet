@@ -1,4 +1,4 @@
-# Alpha_Sense_Pet
+# Alpha_Sense_Project
 ## Rest API tests for https://petstore.swagger.io/
 This repository contains example tests for sample Petstore server.
 
